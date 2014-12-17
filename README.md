@@ -1,6 +1,4 @@
-# RanBase
-======
-## Phalcon 2.0 Vagrant Box
+# Phalcon 2.0 Vagrant Box
 
 ### Features
 * Ubuntu 14.04 LTS
@@ -9,3 +7,5 @@
 * Phalcon 2.0 Latest
 * Phalcon Devtools
 * Zephir
+* Redis Cache
+* Beanstalkd Queue
